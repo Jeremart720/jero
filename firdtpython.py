@@ -1,0 +1,3 @@
+#firstpython
+
+print ( "Python rules")
